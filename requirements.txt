@@ -1,0 +1,4 @@
+pre-commit
+psycopg2-binary
+Django >= 4.0
+pytest
